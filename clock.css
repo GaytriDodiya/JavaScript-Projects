@@ -1,0 +1,17 @@
+.continer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock {
+  background-color: rgb(187, 255, 0);
+  color: black;
+  width: auto;
+  height: auto;
+  font-size: 40px;
+  border-radius: 15px;
+  border: 2px solid gray;
+  padding: auto;
+}
